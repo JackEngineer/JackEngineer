@@ -18,6 +18,7 @@ Senior Frontend Engineer · Project Manager · Full-Stack Developer
 
 | 项目 | 解决的问题 |
 | --- | --- |
+| [青舟](https://qingzhou.heyyami.com/) | 面向电商商家和档口的备货报单工作台，把备货单导入、报单跟进和档口信息管理集中到一个入口。 |
 | [LANLink](https://github.com/JackEngineer/LanLink) | 让 Mac、Windows 和手机在同一局域网内直接互传，不必靠聊天软件中转。 |
 | [Downany · 百纳](https://github.com/JackEngineer/downany) | 把媒体下载、合集选择、队列管理和字幕处理集中到一个跨平台桌面应用。 |
 | [CodexPulse](https://github.com/JackEngineer/CodexPulse) | 在 macOS 上快速查看 Codex 任务状态和剩余额度，无需切换工作窗口。 |
@@ -33,3 +34,11 @@ Senior Frontend Engineer · Project Manager · Full-Stack Developer
 **前端与桌面**：React、Vue、TypeScript、Electron  
 **全栈与原生**：按项目使用 Rust、Swift、Python，处理本地服务、数据存储和系统集成  
 **项目交付**：需求拆解、技术选型、跨平台验收和发布
+
+## 内容分享
+
+我也分享 AI 工具实操、前端开发和独立软件开发记录。
+
+- **微信公众号**：乱弹琴的吗喽小李
+- **抖音**：乱弹琴的吗喽小李
+- **小红书**：吗喽小李
