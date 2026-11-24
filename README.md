@@ -40,5 +40,9 @@ Senior Frontend Engineer · Project Manager · Full-Stack Developer
 我也分享 AI 工具实操、前端开发和独立软件开发记录。
 
 - **微信公众号**：乱弹琴的吗喽小李
-- **抖音**：乱弹琴的吗喽小李
-- **小红书**：吗喽小李
+- **抖音**：[乱弹琴的吗喽小李](https://www.douyin.com/user/MS4wLjABAAAAJuSULp-k0Ik5_BCw13uF8ttlMkDGU-xPNSEV87KedAo)
+- **小红书**：[吗喽小李](https://www.xiaohongshu.com/user/profile/6a3cc6ca0000000010000c02)
+
+### 微信公众号 · 扫码关注
+
+<a href="./assets/wechat-public-account.png"><img src="./assets/wechat-public-account.png" alt="微信公众号「乱弹琴的吗喽小李」宣传图，右下角为关注二维码" width="620" /></a>
