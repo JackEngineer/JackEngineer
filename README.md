@@ -45,4 +45,6 @@ Senior Frontend Engineer · Project Manager · Full-Stack Developer
 
 ### 微信公众号 · 扫码关注
 
-<a href="./assets/wechat-public-account.png"><img src="./assets/wechat-public-account.png" alt="微信公众号「乱弹琴的吗喽小李」宣传图，右下角为关注二维码" width="620" /></a>
+<p align="center">
+  <a href="./assets/wechat-public-account.png"><img src="./assets/wechat-public-account.png" alt="微信公众号「乱弹琴的吗喽小李」宣传图，右下角为关注二维码" width="620" /></a>
+</p>
